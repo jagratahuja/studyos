@@ -1,91 +1,111 @@
-StudyOS
+# StudyOS
 
-StudyOS is a personal study analytics dashboard designed to help students understand how efficiently they study, not just how long they study.
+StudyOS is a personal **study analytics dashboard** designed to help students understand how efficiently they study, not just how long they study.
 
-Instead of focusing only on hours spent studying, StudyOS analyzes study sessions using metrics such as focus level, task completion, and study duration to generate meaningful productivity insights.
+Instead of focusing only on hours spent studying, StudyOS analyzes study sessions using metrics such as **focus level, task completion, and study duration** to generate meaningful productivity insights.
 
 The goal of the system is to help students answer a better question:
 
-“How effective was my study today?”
+> **How effective was my study today?**
 
-Features
+---
+
+# Features
 
 StudyOS Version 1 includes:
 
-Study session tracking
-
-Timer-based study logging
-
-Manual session entry
-
-Subject management
-
-Study analytics dashboard
-
-Session history with editing
-
-Productivity metrics and visual charts
+- Study session tracking
+- Timer-based study logging
+- Manual session entry
+- Subject management
+- Study analytics dashboard
+- Session history with editing
+- Productivity metrics and visual charts
 
 These features allow users to track their study habits and visualize their learning patterns over time.
 
-Dashboard Overview
+---
 
-The application is organized as a productivity dashboard with the following sections:
+# Dashboard Overview
 
-Dashboard
+The application is organized as a productivity dashboard with the following sections.
 
-Displays study summaries including daily study time, weekly progress, session counts, and subject activity.
+## Dashboard
 
-Study Session
+Displays study summaries including:
 
-Allows users to start a live study session timer or manually log a study session.
+- Daily study time
+- Weekly study progress
+- Session counts
+- Active subjects
 
-Analytics
+## Study Session
 
-Visualizes study behavior using charts such as study time trends and subject distribution.
+Allows users to:
 
-History
+- Start a **live study session timer**
+- Manually log completed study sessions
 
-Displays a record of past study sessions with filtering and editing capabilities.
+## Analytics
 
-Settings
+Visualizes study behavior using charts such as:
+
+- Study time trends
+- Subject distribution
+- Productivity patterns
+
+## History
+
+Displays a record of past study sessions with options to:
+
+- Filter sessions by subject
+- Edit logged sessions
+
+## Settings
 
 Allows users to create and manage study subjects.
 
-Technology Stack
+---
 
-StudyOS is built using modern web development tools:
+# Technology Stack
 
-Frontend: Next.js / React
-Backend: Supabase PostgreSQL
-Charts: Recharts
-Deployment: Vercel
-Project Philosophy
+StudyOS is built using modern web technologies:
+
+- **Frontend:** Next.js / React
+- **Backend:** Supabase PostgreSQL
+- **Charts:** Recharts
+- **Deployment:** Vercel
+
+---
+
+# Project Philosophy
 
 Many students work extremely hard but struggle to measure whether their study methods are actually effective.
 
 StudyOS converts study sessions into measurable data so that students can better understand their productivity patterns and improve their study efficiency.
 
-The system is designed to promote smarter studying, not just longer studying.
+The system is designed to promote **smarter studying, not just longer studying**.
 
-Future Development
+---
 
-Future versions of StudyOS may include:
+# Future Development
 
-AI-generated study insights
+Planned improvements for future versions include:
 
-productivity pattern detection
+- AI-generated study insights
+- Productivity pattern detection
+- Study streak tracking
+- Burnout detection
+- Personalized study recommendations
 
-study streak tracking
+---
 
-burnout detection
+# License
 
-personalized study recommendations
+This project is licensed under the **MIT License**.
 
-License
+---
 
-This project is licensed under the MIT License.
+# Author
 
-Author
-
-Jagrat Ahuja
+**Jagrat Ahuja**
