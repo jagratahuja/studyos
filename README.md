@@ -8,6 +8,8 @@ The goal of the system is to help students answer a better question:
 
 > **How effective was my study today?**
 
+Live Website: https://studyos-jagratahuja.vercel.app/
+
 ---
 
 # Features
