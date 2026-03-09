@@ -1,6 +1,6 @@
 # StudyOS
 
-StudyOS is a personal **study analytics dashboard** designed to help students understand how efficiently they study, not just how long they study.
+StudyOS is a personal **study analytics dashboard** designed to help students understand **how efficiently they study**, not just **how long they study**.
 
 Instead of focusing only on hours spent studying, StudyOS analyzes study sessions using metrics such as **focus level, task completion, and study duration** to generate meaningful productivity insights.
 
@@ -8,11 +8,12 @@ The goal of the system is to help students answer a better question:
 
 > **How effective was my study today?**
 
-Live Website: https://studyos-jagratahuja.vercel.app/
+**Live Website:**  
+https://studyos-jagratahuja.vercel.app/
 
 ---
 
-# Features
+## Features
 
 StudyOS Version 1 includes:
 
@@ -28,11 +29,11 @@ These features allow users to track their study habits and visualize their learn
 
 ---
 
-# Dashboard Overview
+## Dashboard Overview
 
 The application is organized as a productivity dashboard with the following sections.
 
-## Dashboard
+### Dashboard
 
 Displays study summaries including:
 
@@ -41,14 +42,14 @@ Displays study summaries including:
 - Session counts
 - Active subjects
 
-## Study Session
+### Study Session
 
 Allows users to:
 
 - Start a **live study session timer**
 - Manually log completed study sessions
 
-## Analytics
+### Analytics
 
 Visualizes study behavior using charts such as:
 
@@ -56,20 +57,20 @@ Visualizes study behavior using charts such as:
 - Subject distribution
 - Productivity patterns
 
-## History
+### History
 
 Displays a record of past study sessions with options to:
 
 - Filter sessions by subject
 - Edit logged sessions
 
-## Settings
+### Settings
 
 Allows users to create and manage study subjects.
 
 ---
 
-# Technology Stack
+## Technology Stack
 
 StudyOS is built using modern web technologies:
 
@@ -80,7 +81,7 @@ StudyOS is built using modern web technologies:
 
 ---
 
-# Project Philosophy
+## Project Philosophy
 
 Many students work extremely hard but struggle to measure whether their study methods are actually effective.
 
@@ -90,7 +91,7 @@ The system is designed to promote **smarter studying, not just longer studying**
 
 ---
 
-# Future Development
+## Future Development
 
 Planned improvements for future versions include:
 
@@ -102,12 +103,12 @@ Planned improvements for future versions include:
 
 ---
 
-# License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-# Author
+## Author
 
 **Jagrat Ahuja**
